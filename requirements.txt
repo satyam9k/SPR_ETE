@@ -1,0 +1,4 @@
+streamlit
+speechbrain
+torchaudio
+matplotlib
