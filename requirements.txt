@@ -1,6 +1,6 @@
-streamlit
-speechbrain
-torchaudio
-matplotlib
-sox
-ffmpeg-python
+streamlit 
+speechbrain 
+soundfile 
+librosa 
+matplotlib 
+plotly
